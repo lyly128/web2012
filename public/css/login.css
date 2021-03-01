@@ -1,0 +1,106 @@
+.logo{
+    float: left;
+    padding: 48px 0 30px;
+}
+.safe{
+    float: right;
+    padding: 54px 0 38px;
+}
+.safe li{
+    float: left;
+    padding-right: 60px;
+}
+.safe span{
+    font-size: 16px;
+    color: #666;
+}
+.ban_box{
+    float: left;
+    padding: 50px 0;
+}
+.login_box {
+    float: right;
+    width: 270px;
+    margin-right: 186px;
+    padding-top: 56px;
+}
+.input_box{
+    height: 62px;
+}
+.login_box h1 {
+    font-size: 16px;
+    color: #343434;
+    line-height: 3em;
+}
+.login_box input {
+    border-radius:3px;
+    font-size: 16px;
+    width: 270px;
+    height: 36px;
+    border: 1px solid #eeeeee;
+    padding-left: 10px;
+}
+.login_box button{
+        border-radius: 5px;
+        width: 270px;
+        background: #ffdd00;
+        text-align: center;
+        height: 44px;
+        line-height: 44px;
+        color: #343434;
+        font-size: 18px;
+        border: 0;
+}
+.login_box button:hover{
+    background: #ffb400;
+    cursor: pointer;
+}
+.rem{
+    display: inline-block;
+    width: 100%;
+    margin-top: 20px;
+}
+.rem span{
+    display: block;
+    font-size: 14px;
+}
+.rem .checkbox {
+    vertical-align: middle;
+    width: 16px;
+    height: 16px;
+}
+.rem_l{
+    float: left;
+    color: #666;
+    vertical-align: middle;
+}
+.rem_r{
+    float: right;
+    padding: 2px 0;
+}
+.rem_r a{
+    color: #666;
+}
+.rem_r a:hover{
+    color: #d1b700;
+}
+.login_box h2 {
+    font-size: 16px;
+    color: #999999; 
+    padding: 30px 0 20px;
+}
+.hz a{
+    font-size: 14px;
+    width: 100px;
+    float: left;
+    color: #666;
+}
+.hz a:hover{
+    font-size:16px ;
+}
+.footer{
+    color: #666;
+    text-align: center;
+    font-size: 13px;
+    padding: 10px 0;
+}

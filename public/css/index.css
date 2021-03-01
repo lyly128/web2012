@@ -1,0 +1,53 @@
+.header_two{
+    width: 100%;
+    height: 98px;
+    background-color: #fff;
+}
+.logo{
+    float: left;
+    padding: 20px 0 30px;
+
+}
+.search{
+    position: absolute;
+    left: 300px;
+    width: 450px;
+    height: 36px;
+    margin: 23px 0 0 86px;
+}
+.search .text { 
+    padding: 4px;
+    width: 338px;
+    border: 1px solid #343434;
+    line-height: 25px;
+    font-size: 14px;
+    color: #989898;
+}
+.search .button{
+    width: 102px;
+    height: 35px;
+    border: none;
+    background-color: #343434;
+    font-size: 14px;
+    color: #fff;
+    position: absolute;
+    outline: none;  
+}
+.search .button:hover{
+    cursor: pointer;
+    color: #ffdd00;
+}
+.cart{
+    position: absolute;
+    right: 40px;
+    top: 25px;
+}
+.cart .myc{
+    width: 188px;
+    height: 33px;
+    background: url(../img/buy.png) 24px center no-repeat;
+    text-align: center;
+    line-height: 33px;
+    border: 1px solid #e3e4e5;
+}
+
